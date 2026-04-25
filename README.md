@@ -30,5 +30,7 @@ Cotton-Disease-Classifier/
 ├── cotton_disease_model.h5 # Trained CNN model
 ├── requirements.txt        # Dependencies
 └── README.md               # Project documentation
+
+<br>
 <img width="1983" height="793" alt="gthubimg" src="https://github.com/user-attachments/assets/89d0d2a3-68e0-4f81-b1d2-4a3f92094610" />
 
